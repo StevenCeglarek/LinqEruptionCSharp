@@ -1,0 +1,15 @@
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/bin/Debug/net6.0/LinqEruption
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/bin/Debug/net6.0/LinqEruption.deps.json
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/bin/Debug/net6.0/LinqEruption.runtimeconfig.json
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/bin/Debug/net6.0/LinqEruption.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/bin/Debug/net6.0/ref/LinqEruption.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/bin/Debug/net6.0/LinqEruption.pdb
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.csproj.AssemblyReference.cache
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.AssemblyInfoInputs.cache
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.AssemblyInfo.cs
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.csproj.CoreCompileInputs.cache
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/ref/LinqEruption.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.pdb
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/LinqEruption/obj/Debug/net6.0/LinqEruption.genruntimeconfig.cache
